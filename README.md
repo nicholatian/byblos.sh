@@ -1,5 +1,7 @@
 # `byblos.sh` installation script
 
+_A one-liner script to download and install the Byblos SDK._
+
 Licenced under the
 [Artisan Software Licence, v1.1](https://asl.xion.mt/v1.1).
 
