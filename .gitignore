@@ -18,6 +18,7 @@ vgcore*
 *.exe
 *.dll
 *.mp4
+*.bin
 
 # General
 .DS_Store
