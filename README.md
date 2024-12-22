@@ -86,7 +86,6 @@ following platforms and &micro;arches:
 		- x86-64 v1 and later
 		- ~~AArch32 ARMv6 and later~~
 		- AArch64 ARMv8.0 and later
-		- ~~SPARC V9~~
 - Apple macOS
 	- ~~macOS 10.4+ for x86-64~~
 	- macOS 11.0+ for ARM64 (ARMv8.2+)
